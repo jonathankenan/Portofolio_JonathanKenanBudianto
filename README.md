@@ -46,7 +46,7 @@ Visit the live portfolio: [Jonathan Kenan Budianto Portfolio](https://jonathanke
 
 ```
 portofolio/
-├── porto.html          # Main HTML file
+├── index.html          # Main HTML file (GitHub Pages entry point)
 ├── styles.css         # All CSS styling and animations
 ├── README.md          # Project documentation
 └── images/           # Profile images (optional)
